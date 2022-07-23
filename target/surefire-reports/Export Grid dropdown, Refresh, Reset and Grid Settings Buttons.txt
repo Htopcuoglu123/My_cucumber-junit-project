@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Export Grid dropdown, Refresh, Reset and Grid Settings Buttons
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 27.385 s - in Export Grid dropdown, Refresh, Reset and Grid Settings Buttons

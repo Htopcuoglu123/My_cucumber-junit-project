@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Etsy title verification
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 118.365 s - in Etsy title verification

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Grid Setting button is on the right of the page
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 15.015 s - in Grid Setting button is on the right of the page

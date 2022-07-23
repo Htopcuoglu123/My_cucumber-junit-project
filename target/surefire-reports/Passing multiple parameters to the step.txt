@@ -1,0 +1,17 @@
+-------------------------------------------------------------------------------
+Test set: Passing multiple parameters to the step
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 23.842 s <<< FAILURE! - in Passing multiple parameters to the step
+Passing multiple parameters to the step.User searches for multiple items  Time elapsed: 23.842 s  <<< ERROR!
+io.cucumber.core.exception.CucumberException: 
+Step [User should be able to search for following] is defined with 0 parameters at 'com.cydeo.step_definitions.GoogleSearchStepDefs.userShouldBeAbleToSearchForFollowing()'.
+However, the gherkin step has 1 arguments:
+ * Table:
+      | java          |
+      | selenium      |
+      | cucumber bdd  |
+      | QA automation |
+      | wooden spoon  |
+
+Step text: User should be able to search for following
+
